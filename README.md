@@ -126,4 +126,3 @@ No se utilizan dependencias externas.
 
 ---
 
-## Ejecución del programa
